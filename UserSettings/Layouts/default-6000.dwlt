@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1512
     height: 843
   m_ShowMode: 4
-  m_Title: Hierarchy
+  m_Title: Inspector
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -192,8 +192,8 @@ MonoBehaviour:
     y: 0
     width: 286
     height: 466.5
-  m_MinSize: {x: 201, y: 226}
-  m_MaxSize: {x: 4001, y: 4026}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -272,8 +272,8 @@ MonoBehaviour:
     y: 0
     width: 357.5
     height: 787
-  m_MinSize: {x: 276, y: 76}
-  m_MaxSize: {x: 4001, y: 4026}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
@@ -300,8 +300,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Scene\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 287
-    y: 24
+    x: 286
+    y: 102
     width: 866.5
     height: 440.5
   m_SerializedDataModeController:
@@ -581,7 +581,7 @@ MonoBehaviour:
       sizeOverridden: 0
     - dockPosition: 0
       containerId: overlay-toolbar__left
-      displayed: 1
+      displayed: 0
       id: Terrain Tools
       index: 0
       contents: '{"m_Layout":4,"m_Collapsed":false,"m_Floating":false,"m_FloatingSnapOffset":{"x":24.0,"y":0.0},"m_SnapOffsetDelta":{"x":0.0,"y":0.0},"m_FloatingSnapCorner":0,"m_Size":{"x":0.0,"y":0.0},"m_SizeOverridden":false}'
@@ -718,9 +718,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: 261.19116, y: 582.37604, z: 513.5525}
+    m_Target: {x: 827.70917, y: 119.27062, z: 794.3745}
     speed: 2
-    m_Value: {x: 261.19116, y: 582.37604, z: 513.5525}
+    m_Value: {x: 827.70917, y: 119.27062, z: 794.3745}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -766,13 +766,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.24312985, y: -0.6639945, z: 0.24312937, w: 0.6639941}
+    m_Target: {x: -0.057674754, y: -0.9423029, z: 0.23659866, w: -0.22970113}
     speed: 2
-    m_Value: {x: -0.24312985, y: 0.66399443, z: -0.24312936, w: -0.6639941}
+    m_Value: {x: -0.05767468, y: -0.94230163, z: 0.23659834, w: -0.22970083}
   m_Size:
-    m_Target: 621.89136
+    m_Target: 18.94682
     speed: 2
-    m_Value: 621.89136
+    m_Value: 18.94682
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -828,7 +828,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 24
+    y: 102
     width: 285
     height: 440.5
   m_SerializedDataModeController:
@@ -845,23 +845,23 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
+      m_SelectedIDs: ecf4ffff
+      m_LastClickedID: -2836
       m_ExpandedIDs: 2afbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: 
-        m_OriginalName: 
+        m_Name: Shelter
+        m_OriginalName: Shelter
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 0
+        m_UserData: -2836
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 11
+        m_OriginalEventType: 0
         m_IsRenamingFilename: 0
         m_TrimLeadingAndTrailingWhitespace: 0
         m_ClientGUIView: {fileID: 8}
@@ -995,7 +995,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 490.5
+    y: 568.5
     width: 1153.5
     height: 294.5
   m_SerializedDataModeController:
@@ -1037,9 +1037,9 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 143}
-    m_SelectedIDs: 1a7d0000
-    m_LastClickedID: 32026
-    m_ExpandedIDs: 00000000a87c0000
+    m_SelectedIDs: 1e7d0000
+    m_LastClickedID: 32030
+    m_ExpandedIDs: 00000000a87c0000007d000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1096,7 +1096,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -1183,8 +1183,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Inspector\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 1155.5
-    y: 24
+    x: 1154.5
+    y: 102
     width: 356.5
     height: 761
   m_SerializedDataModeController:
